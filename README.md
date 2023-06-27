@@ -1,16 +1,7 @@
-# test_svyaz
+# Тестовое задание
 
-A new Flutter project.
+Приложение для книг.
+State management - BLoC, навигация - Auto_Route, локальная БД - Hive.
+![svyaz](https://github.com/nikero72/test_svyaz/assets/123304698/10f9575f-815b-4d72-b79b-ee04ef0726e6)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
